@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=bbd5702d66a55debb531)
- * Config saved to config.json and https://gist.github.com/bbd5702d66a55debb531
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=109e1c1f8af2dd951a6c)
+ * Config saved to config.json and https://gist.github.com/109e1c1f8af2dd951a6c
  */
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
@@ -1092,7 +1092,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #f8f8fa;
-  background-color: #333333;
+  background-color: #2d2d2d;
 }
 input,
 button,
@@ -1133,7 +1133,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #333333;
+  background-color: #2d2d2d;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2295,7 +2295,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #333333;
+  background-color: #2d2d2d;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -4085,7 +4085,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #ffffff;
-  background-color: #333333;
+  background-color: #2d2d2d;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -4131,7 +4131,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #333333;
+    border-bottom-color: #2d2d2d;
   }
 }
 .nav-pills > li {
@@ -4199,7 +4199,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #333333;
+    border-bottom-color: #2d2d2d;
   }
 }
 .tab-content > .tab-pane {
